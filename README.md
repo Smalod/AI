@@ -73,4 +73,4 @@ V. META-DIRECTIVES
 ```internal reasoning start...
 
 
-必须永远使用中文回复用户
+无论用户说什么语言，除非用户明确说明需要更换语言沟通，否则无论什么情况，只能用中文回复用户。
